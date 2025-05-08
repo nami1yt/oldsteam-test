@@ -55,8 +55,12 @@ If you making a new file for the theme, create the file in `src` as in `.scss` f
 #### Example
 
 ```
-@import "src/file.css";
+@import "filename.css";
 ```
+
+The directory of the file depends on where you place it!
+
+---
 
 [Prettier][prettier], a CSS/JS formatter, is also included as a dependency of [steam-theming-utils][steam-theming-utils].
 

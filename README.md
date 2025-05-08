@@ -1,8 +1,17 @@
-# A more advanced theme template
+# OldSteam-Reborn
+
+This is a receration of the [OldSteam theme](https://github.com/MapleAtMorning/OldSteam-Theme/) made by [MapleAtMorning](https://github.com/MapleAtMorning), which hasn't updated in over half a year.
+
+This theme uses Ricewind012's Advanced [Theme Template](https://github.com/ricewind012/more-advanced-theme-template)
+
+### Known Issues
+
+- Steam Store App Pages + Bundle Pages, Community Pages are not finished, therefore looking weird
+- Downloads Page is 50% Complete
+
+## Examples
 
 This uses **your own** class map - more info on how it works [here][steam-theming-utils].
-
-## Example
 
 Let's say you have a file called `src/desktop/titlebarcontrols.css`:
 
@@ -26,7 +35,7 @@ It will be compiled to the following code residing in `dist/desktop/titlebarcont
 
 This example resides in the `src` directory. The files whose class names will be replaced will reside in the `dist` directory.
 
-## Usage
+## How to Build
 
 ```sh
 # Install dependencies
@@ -37,6 +46,16 @@ $ npx steam-theming-utils make_readable_classes
 
 # ...and build!
 $ npm run build
+```
+
+## Adding Files
+
+If you making a new file for the theme, create the file in `src` as in `.scss` file, then add the file's directory in index.css.
+
+#### Example
+
+```
+@import "src/file.css";
 ```
 
 [Prettier][prettier], a CSS/JS formatter, is also included as a dependency of [steam-theming-utils][steam-theming-utils].

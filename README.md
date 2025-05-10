@@ -6,8 +6,11 @@ This theme uses Ricewind012's Advanced [Theme Template](https://github.com/ricew
 
 ### Known Issues
 
-- Steam Store App Pages + Bundle Pages, Community Pages are not finished, therefore looking weird
+If you know how to fix. please make a PR.
+
+- Steam Store + Community Pages are not finished, therefore looking weird
 - Downloads Page is 50% Complete
+- Some Variable Colors don't work
 
 ## Examples
 

@@ -1,6 +1,6 @@
 #BottomBar {
 	border: 1px outset #808080;
-	background: #5a6a50;
+	background: var(--lightgreenbg);
 }
 
 #Icon {
@@ -8,10 +8,10 @@
 }
 
 #Queue {
-	color: #d8ded3;
+	color: var(--offwhite);
 }
 
 #Text {
 	border: 1px outset #808080;
-	color: #d8ded3;
+	color: var(--offwhite);
 }

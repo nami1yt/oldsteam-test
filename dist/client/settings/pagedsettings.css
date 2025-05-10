@@ -1,25 +1,25 @@
 ._2kwFFHckg8jvnwJfg9-la8 {
-  background: #5a6a50 !important;
+  background: var(--lightgreenbg) !important;
   border: 1px outset #808080 !important;
 }
 
 ._2rjVTGz8aLvqOdz5v2gq5C {
-  color: #c4b550 !important;
+  color: var(--maize) !important;
 }
 
 .CFTLX2wIKOK3hNV-fS7_V {
-  background: #4c5844 !important;
+  background: var(--greenbg) !important;
 }
 
 ._1-vlriAtKYDViAEunue4VO {
-  color: #d8ded3 !important;
+  color: var(--offwhite) !important;
 }
 
 ._2DpXjzK3WWsOtUWUrcuOG7 {
   border: 1px outset #808080 !important;
-  background: #4c5844 !important;
+  background: var(--greenbg) !important;
 }
 
 ._1Hye7o1wYIfc9TE9QKRW4T {
-  background: #3e4637 !important;
+  background: var(--darkgreenbg) !important;
 }

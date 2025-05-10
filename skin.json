@@ -1,6 +1,7 @@
 {
 	"name": "OldSteam-Test",
 	"author": "nami1",
+	"RootColors": "colors.css",
 	"description": "Maple's OldSteam Theme using Ricewind's Advanced Steam Template",
 	"version": "0.3.0",
     "Steam-WebKit": "dist/index.css",
